@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EDDemo.Estructuras_No_Lineales
 {
+    //Correccion
     public class NodoBinario
     {
         public int Dato;
